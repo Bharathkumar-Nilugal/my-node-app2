@@ -42,7 +42,7 @@ DockerHub account
 
 1.Clone the repository:
 ```
-git clone https://github.com/YOUR_USERNAME/my-node-app.git
+git clone https://github.com/Bharathkumar Nilugal/my-node-app.git
 cd my-node-app
 ```
 
